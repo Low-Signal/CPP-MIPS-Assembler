@@ -1,0 +1,5 @@
+C:\Mingw\mingw64\bin\mingw32-make.exe assem -f c:\Users\Daimeun\Desktop\folder for EVERYTHING\School\CDA 3101\Assembler\makefile --dry-run --keep-going --print-directory
+mingw32-make: Entering directory 'c:/Users/Daimeun/Desktop/folder for EVERYTHING/School/CDA 3101/Assembler'
+g++ -std=c++11  -o assem assem.cpp
+mingw32-make: Leaving directory 'c:/Users/Daimeun/Desktop/folder for EVERYTHING/School/CDA 3101/Assembler'
+ 

@@ -1,0 +1,293 @@
+C:\Mingw\mingw64\bin\mingw32-make.exe all -f c:\Users\Daimeun\Desktop\folder for EVERYTHING\School\CDA 3101\Assembler\makefile --print-data-base --no-builtin-variables --no-builtin-rules --question
+mingw32-make: *** No rule to make target 'all'.  Stop.
+ 
+# GNU Make 4.2.1
+# Built for x86_64-w64-mingw32
+# Copyright (C) 1988-2016 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Fri Jan 07 18:51:47 2022
+
+# Variables
+
+# 'override' directive
+GNUMAKEFLAGS := 
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# automatic
+?F = $(notdir $?)
+# default
+.SHELLFLAGS := -c
+# makefile
+MAKEFLAGS = pqrR
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# makefile
+CURDIR := c:/Users/Daimeun/Desktop/folder for EVERYTHING/School/CDA 3101/Assembler
+# default
+SHELL := sh.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+FP_NO_HOST_CHECK = NO
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+PYCHARM COMMUNITY EDITION = C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;
+# environment
+ONEDRIVE = C:\Users\Daimeun\OneDrive
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (from 'c:\Users\Daimeun\Desktop\folder for EVERYTHING\School\CDA 3101\Assembler\makefile', line 1)
+MAKEFILE_LIST :=  c:\Users\Daimeun\Desktop\folder for EVERYTHING\School\CDA 3101\Assembler\makefile
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+TMP = C:\Users\Daimeun\AppData\Local\Temp
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-76b75299-1b9c-4ef3-bec2-5d279fe03108-sock
+# environment
+VSCODE_CWD = C:\Users\Daimeun\Desktop\folder for EVERYTHING\School\OS Project 3\Fall-2020-OpSys_Project-3
+# default
+MAKE_HOST := x86_64-w64-mingw32
+# environment
+PATH = C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;c:\program files (x86)\razer chroma sdk\bin;c:\program files\razer chroma sdk\bin;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\program files (x86)\ati technologies\ati.ace\core-static;c:\windows\system32\openssh\;c:\program files (x86)\ssh communications security\ssh tectia\ssh tectia aux;c:\program files (x86)\ssh communications security\ssh tectia\ssh tectia aux\support binaries;c:\program files (x86)\ssh communications security\ssh tectia\ssh tectia broker;c:\program files (x86)\ssh communications security\ssh tectia\ssh tectia client;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\Git LFS;C:\Users\Daimeun\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Daimeun\AppData\Local\Programs\Python\Python37\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Users\Daimeun\AppData\Local\Microsoft\WindowsApps;C:\Users\Daimeun\AppData\Local\Programs\Microsoft VS Code\bin;C:\Mingw\mingw64\bin;C:\Program Files\JetBrains\PyCharm 2019.3.3\bin;C:\Users\Daimeun\AppData\Local\GitHubDesktop\bin;C:\Users\Daimeun\AppData\Local\atom\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.1\bin;;C:\Users\Daimeun\.dotnet\tools;C:\Users\Daimeun\AppData\Roaming\npm
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+GIT_LFS_PATH = C:\Program Files\Git LFS
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+USERPROFILE = C:\Users\Daimeun
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync
+# automatic
+%F = $(notdir $%)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_25820_RXMLGLQIJKSTFYVG
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+COMPUTERNAME = DAIMEUNS
+# environment
+GOOGLE_API_KEY = no
+# environment
+PROGRAMFILES = C:\Program Files
+# default
+.LOADED := 
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ASL.LOG = Destination=file
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = Daimeun
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+GOOGLE_DEFAULT_CLIENT_ID = no
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Daimeun\AppData\Roaming\Code\CachedData\899d46d82c4c95423fb7e10e68eba52050e30ba3
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# environment
+LOGONSERVER = \\DAIMEUNS
+# environment
+ONEDRIVECONSUMER = C:\Users\Daimeun\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = DAIMEUNS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# default
+MAKE_VERSION := 4.2.1
+# makefile
+.DEFAULT_GOAL := assem
+# environment
+GOOGLE_DEFAULT_CLIENT_SECRET = no
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+LOCALAPPDATA = C:\Users\Daimeun\AppData\Local
+# environment
+PSMODULEPATH = C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+# default
+MAKE_COMMAND := C:/Mingw/mingw64/bin/mingw32-make
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\91631275d48c4d6a7566baba60032d0d-1.63.2-main-sock
+# environment
+HOMEPATH = \Users\Daimeun
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -pqrR
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+SYSTEMROOT = C:\WINDOWS
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# automatic
++F = $(notdir $+)
+# environment
+APPDATA = C:\Users\Daimeun\AppData\Roaming
+# environment
+TEMP = C:\Users\Daimeun\AppData\Local\Temp
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+SESSIONNAME = Console
+# environment
+PROCESSOR_REVISION = 5e03
+# environment
+PYCHARM = C:\Program Files\JetBrains\PyCharm 2019.3.3\bin;
+# default
+.RECIPEPREFIX := 
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+VSCODE_PID = 25820
+# environment
+USERDOMAIN_ROAMINGPROFILE = DAIMEUNS
+# variable set hash-table stats:
+# Load=102/1024=10%, Rehash=0, Collisions=15/123=12%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+
+# No files, no impossibilities in 0 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+assem: assem.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'c:\Users\Daimeun\Desktop\folder for EVERYTHING\School\CDA 3101\Assembler\makefile', line 2):
+	g++ -std=c++11  -o assem assem.cpp
+
+# Not a target:
+c:\Users\Daimeun\Desktop\folder for EVERYTHING\School\CDA 3101\Assembler\makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-01-07 18:32:14
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'c:\Users\Daimeun\Desktop\folder for EVERYTHING\School\CDA 3101\Assembler\makefile', line 5):
+	rm assem
+
+# Not a target:
+assem.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=7/1024=1%, Rehash=0, Collisions=0/18=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 7 / storage = 127 B / avg = 18 B
+# current buf: size = 8162 B / used = 127 B / count = 7 / avg = 18 B
+
+# strcache performance: lookups = 11 / hit rate = 36%
+# hash-table stats:
+# Load=7/8192=0%, Rehash=0, Collisions=0/11=0%
+# Finished Make data base on Fri Jan 07 18:51:47 2022
+
+ 
