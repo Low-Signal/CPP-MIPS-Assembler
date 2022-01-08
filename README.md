@@ -1,5 +1,6 @@
 # CPP-MIPS-Assembler
 * MIPS assembler implemented with C++.
+* Reads in asm file and translates it into MIPS machine language
 
 # MIPS Instruction Supported
 * addiu
